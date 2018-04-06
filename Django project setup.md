@@ -17,6 +17,7 @@ Then you can setup the Django project and the django app using:
 $ django-admin startproject twitter_clone
 $ cd twitter_clone
 $ django-admin startapp twitter
+$ cd ..
 ```
 _(It's important to respect the names, as the test are importing modules using those names)_
 
