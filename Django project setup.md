@@ -8,7 +8,7 @@ You'll have to setup a Django project from scratch. The first step is to create 
 
 ```bash
 $ mkvirtualenv twitter-clone -p /usr/bin/python3
-$ pip install -r requirements.txt
+$ pip install -r requirements/dev.txt
 ```
 
 Then you can setup the Django project and the django app using:
